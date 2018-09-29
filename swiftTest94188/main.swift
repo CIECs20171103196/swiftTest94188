@@ -9,3 +9,4 @@
 import Foundation
 
 print ("welcome to github")
+print ("你访问的对象不存在")
