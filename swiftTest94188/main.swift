@@ -12,7 +12,7 @@ var j=0
 var x=0
 var a:[Int]=[10,1,8,7,2,5,4,3,6,9]
 var temp=0
-for i in 0 ..< 10
+for i in 0 ..< 9
 {
     for j in 0 ..< (9-i)
     {
